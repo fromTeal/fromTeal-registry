@@ -11,3 +11,30 @@ But it’s not easy to replace an existing model that works - we need to experim
 We start with this registry of teams & their purpose - the problem they want to solve - which we hope will help engineers discover teams & join forces. These teams aren’t afraid to state their mission publicly, because even though they want to succeed financially & make a living, they’re not driven just by profits, but rather by their purpose - solving a real problem/need people have. If they’ll be copied by other companies, driven just by profits, at least the problem will be solved. However, we believe customers will prefer the company driven by purpose rather than the one driven just by profits.
 
 To add your team, open a PR & edit this page (see instructions here) 
+
+
+## Categories
+
+<!-- toc -->
+
+- [Visualization](#visualization)
+  * [Immersive data visualization](#immersive-data-visualization)
+- [Climate change](#climate-change)
+  * [Home-based Decarbonization](#home-based-decarbonization)
+  
+<!-- tocstop -->
+
+## Visualization
+
+
+### Immersive data visualization
+
+* [Alice-in](https://alice.in) — An immersive data-visualization solution for managing teams workload
+
+
+## Climate change
+
+
+### Home-based decarbonization
+* [PlanetA](https://planet-a.xyz) — Living walls for capturing carbon
+
