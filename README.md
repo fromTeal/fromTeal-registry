@@ -3,7 +3,7 @@ If you've ever taken part in a hackathon, you probably experienced how effective
 
 It's not just about being more effective — we believe spending the biggest part of your day engaging your skills and passion creating things that matter with amazing colleagues is a fundamental part of self-actualization.
 
-Helping you do this and build a successful business around it is why we started fromTeal: an organization founded by engineers trying to experiment with ways to replace the existing model. You can find more details here.
+Helping you do this and build a successful business around it is why we started fromTeal: an organization founded by engineers trying to experiment with ways to replace the existing model. You can find more details [here](idea.md).
 
 Our first project is a registry of teams and their purpose - the problem they want to solve - which we hope will help engineers discover one another and join forces. As we go, we will provide the other tools/structure we are building to the community that's forming here. 
 
