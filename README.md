@@ -17,19 +17,32 @@ To add your team, open a PR & edit this page (see [instructions here](instructio
 
 <!-- toc -->
 
-- [Visualization](#visualization)
+- [Leveraging data](#leveraging-data)
   * [Immersive data visualization](#immersive-data-visualization)
+
+- [Self-actualization](#self-actualization)
+  * [Self-organizing tools](#self-organizing-tools)
+
 - [Climate change](#climate-change)
   * [Home-based Decarbonization](#home-based-decarbonization)
   
 <!-- tocstop -->
 
-## Visualization
+## Leveraging data
 
 
 ### Immersive data visualization
 
-* [Alice-in](https://alice.in) — An immersive data-visualization solution for managing teams workload
+* [Alice-in](https://alice.in) — An immersive data-visualization solution for value discovery in large data-streams
+
+
+## Self-actualization
+
+
+### Self-organizing tools
+
+* [fromTeal](https://fromteal.com) — Tools for self-organizing & running Teal organizations
+
 
 
 ## Climate change
