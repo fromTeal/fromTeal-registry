@@ -1,4 +1,4 @@
-# fromTeal-registry
+# fromTeal-Registry
 If you've ever taken part in a hackathon, you probably experienced how effective, productive, creative, and joyful the work was. It just felt alive. Why? Your team was building something you actually cared about, on your own terms, with full accountability and freedom for each team member. You weren't a human resource but a human: able to show up as your actual self and work with a group of people you were excited to be with.
 
 It's not just about being more effective — we believe spending the biggest part of your day engaging your skills and passion creating things that matter with amazing colleagues is a fundamental part of self-actualization.
@@ -16,25 +16,23 @@ To add your team, open a PR & edit this page (see [instructions here](instructio
 ## Categories
 
 <!-- toc -->
+- [Self-Actualization](#self-actualization)
 
-- [Visualization](#visualization)
-  * [Immersive data visualization](#immersive-data-visualization)
+- [Data & Information](#data-and-information)
+
 - [Climate change](#climate-change)
-  * [Home-based Decarbonization](#home-based-decarbonization)
   
 <!-- tocstop -->
+## Self-actualization
 
-## Visualization
+* [fromTeal](http://www.fromteal.com/) — Platform with tools for self-organizing and running Teal Organizations
 
-
-### Immersive data visualization
+## Data and Information
 
 * [Alice-in](https://alice.in) — An immersive data-visualization solution for managing teams workload
 
 
 ## Climate change
 
-
-### Home-based decarbonization
 * [PlanetA](https://planet-a.xyz) — Living walls for capturing carbon
 
