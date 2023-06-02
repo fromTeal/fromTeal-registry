@@ -20,7 +20,7 @@ To add your team, open a PR & edit this page (see [instructions here](instructio
 
 - [Data & Information](#data-and-information)
 
-- [Climate change](#climate-change)
+- [Sustainability](#sustainability)
   
 <!-- tocstop -->
 ## Self-actualization
@@ -32,7 +32,7 @@ To add your team, open a PR & edit this page (see [instructions here](instructio
 * [Alice-in](https://alice.in) — An immersive data-visualization solution for managing teams workload
 
 
-## Climate change
+## Sustainability
 
 * [PlanetA](https://planet-a.xyz) — Living walls for capturing carbon
 
