@@ -29,7 +29,7 @@ To add your team, open a PR & edit this page (see [instructions here](instructio
 
 ## Data and Information
 
-* [Alice-in](https://alice.in) — An immersive data-visualization solution for managing teams workload
+* [Alice-in](https://alice.in) — An immersive data-visualization solution for managing teams workload ![Join us](badge.svg)
 
 
 ## Sustainability
