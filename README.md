@@ -29,10 +29,10 @@ To add your team, open a PR & edit this page (see [instructions here](instructio
 
 ## Data and Information
 
-* [Alice-in](https://alice.in) — An immersive data-visualization solution for managing teams workload [![Join us](badge.svg)](https://docs.google.com/forms/d/e/1FAIpQLSfZJNjuUIuFk5638F5-mo95M1mdtsRGmcLyRPKdtRcJz2Cxpg/viewform?usp=sf_link)
+* [Alice-in](https://aliceai.app) — An immersive data-visualization solution for managing teams workload [![Join us](badge.svg)](https://docs.google.com/forms/d/e/1FAIpQLSfZJNjuUIuFk5638F5-mo95M1mdtsRGmcLyRPKdtRcJz2Cxpg/viewform?usp=sf_link)
 
 
 ## Sustainability
 
-* [PlanetA](https://planet-a.xyz) — Living walls for capturing carbon
+* [Wall-with-Soul](https://wall-with-soul.webflow.io) — Living walls for capturing carbon
 
