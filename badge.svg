@@ -22,8 +22,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="7.7362073"
-     inkscape:cx="40.717627"
-     inkscape:cy="10.793403"
+     inkscape:cx="52.480496"
+     inkscape:cy="12.34455"
      inkscape:window-width="1335"
      inkscape:window-height="645"
      inkscape:window-x="177"
@@ -60,25 +60,26 @@
   </mask>
   <g
      mask="url(#b)"
-     id="g86">
+     id="g86"
+     transform="scale(0.86724412,1)">
     <path
        fill="#CCA6C4"
-       d="M0 0h34v20H0V0z"
+       d="M 0,0 H 34 V 20 H 0 Z"
        id="path75"
-       style="fill:#00aa88" />
+       style="fill:#483e37" />
     <path
        fill="#494368"
-       d="M34 0h77v20H34V0z"
+       d="m 34,0 h 77 V 20 H 34 Z"
        id="path77"
        style="fill:#0088aa" />
     <linearGradient
        id="c"
        gradientUnits="userSpaceOnUse"
-       x1="-261.122"
+       x1="-261.12201"
        y1="239.55"
-       x2="-261.122"
+       x2="-261.12201"
        y2="238.55"
-       gradientTransform="matrix(111 0 0 -20 29040 4791)">
+       gradientTransform="matrix(111,0,0,-20,29040,4791)">
       <stop
          offset="0"
          stop-color="#BBB"
@@ -91,8 +92,9 @@
     </linearGradient>
     <path
        fill="url(#c)"
-       d="M0 0h111v20H0V0z"
-       id="path84" />
+       d="M 0,0 H 111 V 20 H 0 Z"
+       id="path84"
+       style="fill:url(#c)" />
     <text
        xml:space="preserve"
        style="fill:#008080"
@@ -100,7 +102,9 @@
        y="11.245821"
        id="text572"><tspan
          sodipodi:role="line"
-         id="tspan570" /></text>
+         id="tspan570"
+         x="6.9801645"
+         y="11.245821" /></text>
     <rect
        style="fill:#cccccc"
        id="rect626"
@@ -130,23 +134,23 @@
   <text
      xml:space="preserve"
      style="fill:#483e37"
-     x="47.448463"
-     y="12.977482"
+     x="42.277969"
+     y="13.236007"
      id="text412"><tspan
        sodipodi:role="line"
        id="tspan410"
-       x="47.448463"
-       y="12.977482"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:Chalkboard;-inkscape-font-specification:'Chalkboard, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Join us</tspan></text>
+       x="42.277969"
+       y="13.236007"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:Chalkboard;-inkscape-font-specification:'Chalkboard, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">join us</tspan></text>
   <text
      xml:space="preserve"
      style="fill:#ffffff"
-     x="46.864277"
-     y="12.704529"
+     x="41.823048"
+     y="12.963053"
      id="text466"><tspan
        sodipodi:role="line"
        id="tspan464"
-       x="46.864277"
-       y="12.704529"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:Chalkboard;-inkscape-font-specification:'Chalkboard, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Join us</tspan></text>
+       x="41.823048"
+       y="12.963053"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:Chalkboard;-inkscape-font-specification:'Chalkboard, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">join us</tspan></text>
 </svg>
