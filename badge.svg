@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="110"
+   height="20"
+   viewBox="0 0 110 20"
+   version="1.1"
+   id="svg96"
+   sodipodi:docname="badge.svg"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview98"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="7.7362073"
+     inkscape:cx="40.717627"
+     inkscape:cy="10.793403"
+     inkscape:window-width="1335"
+     inkscape:window-height="645"
+     inkscape:window-x="177"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg96" />
+  <!-- Created by Sindre Sorhus -->
+  <defs
+     id="defs70">
+    <filter
+       id="a"
+       filterUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="111"
+       height="20">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0"
+         id="feColorMatrix67" />
+    </filter>
+  </defs>
+  <mask
+     maskUnits="userSpaceOnUse"
+     x="0"
+     y="0"
+     width="111"
+     height="20"
+     id="b">
+    <path
+       fill="#FFF"
+       filter="url(#a)"
+       d="M3 0h104c1.66 0 3 1.34 3 3v14c0 1.66-1.34 3-3 3H3c-1.66 0-3-1.34-3-3V3c0-1.66 1.34-3 3-3z"
+       id="path72" />
+  </mask>
+  <g
+     mask="url(#b)"
+     id="g86">
+    <path
+       fill="#CCA6C4"
+       d="M0 0h34v20H0V0z"
+       id="path75"
+       style="fill:#00aa88" />
+    <path
+       fill="#494368"
+       d="M34 0h77v20H34V0z"
+       id="path77"
+       style="fill:#0088aa" />
+    <linearGradient
+       id="c"
+       gradientUnits="userSpaceOnUse"
+       x1="-261.122"
+       y1="239.55"
+       x2="-261.122"
+       y2="238.55"
+       gradientTransform="matrix(111 0 0 -20 29040 4791)">
+      <stop
+         offset="0"
+         stop-color="#BBB"
+         stop-opacity=".1"
+         id="stop79" />
+      <stop
+         offset="1"
+         stop-opacity=".1"
+         id="stop81" />
+    </linearGradient>
+    <path
+       fill="url(#c)"
+       d="M0 0h111v20H0V0z"
+       id="path84" />
+    <text
+       xml:space="preserve"
+       style="fill:#008080"
+       x="6.9801645"
+       y="11.245821"
+       id="text572"><tspan
+         sodipodi:role="line"
+         id="tspan570" /></text>
+    <rect
+       style="fill:#cccccc"
+       id="rect626"
+       width="21.586805"
+       height="12.92623"
+       x="6.0753284"
+       y="3.3608201" />
+    <path
+       style="fill:#808080"
+       d="m 6.2045907,15.899264 c 0.3322006,-0.199321 1.1552178,-0.679195 1.4218854,-0.904836 0.3256177,-0.275523 0.5936565,-0.613106 0.9048361,-0.904837 1.0574611,-0.991369 2.4390788,-2.09019 3.4900818,-2.973033 0.537589,-0.451574 1.083026,-0.895247 1.551148,-1.421885 0.143129,-0.1610198 0.222284,-0.3791297 0.387787,-0.5170492 0.401434,-0.334528 0.31119,0.050264 0.517049,-0.2585247 0.0676,-0.1014017 0.258525,-0.3803942 0.258525,-0.2585246 0,0.263752 -0.129262,-0.00523 -0.129262,0.2585246 m 12.92623,7.1094269 c -0.580198,-0.450044 -1.110934,-0.959186 -1.68041,-1.421885 -4.622378,-3.755682 2.047998,1.860629 -2.068197,-1.938935 -0.228309,-0.210747 -0.535099,-0.320297 -0.775573,-0.517049 -0.235805,-0.192931 -0.418596,-0.443897 -0.646312,-0.646312 -0.27939,-0.248347 -1.393654,-0.797858 -1.551148,-1.034098 -0.122216,-0.183325 -0.292936,-0.456612 -0.387787,-0.6463117 -0.03854,-0.077077 0.06094,-0.1975898 0,-0.2585246 -0.03047,-0.030467 -0.09879,0.030467 -0.129262,0 -0.05417,-0.054166 -0.09009,-0.3094462 -0.129262,-0.3877869 -0.0545,-0.1090036 -0.204023,-0.1495211 -0.258525,-0.2585247 -0.03854,-0.077077 0.03854,-0.1814474 0,-0.2585246 -0.0545,-0.1090035 -0.204023,-0.149521 -0.258524,-0.2585246 -0.01927,-0.038539 0,-0.1723497 0,-0.1292623 0,0.086175 0,0.1723498 0,0.2585246"
+       id="path808" />
+    <path
+       style="fill:#999999"
+       d="M 6.0753284,3.2315577 C 6.2907656,3.36082 6.5158155,3.4752675 6.7216399,3.6193446 7.6408477,4.26279 7.1042993,4.0595996 8.1435253,4.653443 9.121896,5.212512 9.1733158,5.0814454 10.08246,5.6875415 c 0.800559,0.5337059 1.338582,1.3309226 2.068197,1.9389346 0.375838,0.3131982 0.761436,0.6368862 1.163361,0.9048361 0.149148,0.099433 0.238638,0.2883544 0.387786,0.3877869 0.08017,0.053443 0.190398,0.061135 0.258525,0.1292623 0.06813,0.068127 0.06114,0.1903974 0.129262,0.2585247 0.263861,0.2638604 0.620823,0.304039 0.904837,0.5170492 0.01396,0.010467 0.486324,0.3263377 0.517049,0.3877867 0.01927,0.03854 -0.03047,0.0988 0,0.129263 0.03047,0.03047 0.0988,-0.03047 0.129262,0 0.03047,0.03047 -0.03047,0.09879 0,0.129262 0.03047,0.03047 0.0988,-0.03047 0.129262,0 0.03047,0.03047 -0.03047,0.09879 0,0.129262 0.04309,0.04309 0.3447,0.08618 0.387787,0.129262 0.03047,0.03047 -0.01927,0.09072 0,0.129263 0.122118,0.244235 0.387787,0.117994 0.387787,0.387787 M 27.662134,3.36082 c -1.06832,0.3540728 -1.739358,1.1223876 -2.585247,1.8096723 -0.788338,0.6405251 -1.376775,1.1332876 -2.197459,1.6804099 -1.592557,1.061705 -3.268684,1.8284626 -4.265656,3.4900828 -0.520371,0.867285 -0.496417,1.458095 -1.551148,1.809672 -0.146463,0.04882 -0.380074,-0.06849 -0.517049,0 -0.168281,0.08414 -0.792161,0.275111 -0.387787,-0.129263"
+       id="path1011" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="fill:#ffffff"
+     x="48.039703"
+     y="11.645988"
+     id="text408"><tspan
+       sodipodi:role="line"
+       id="tspan406"
+       x="48.039703"
+       y="11.645988" /></text>
+  <text
+     xml:space="preserve"
+     style="fill:#483e37"
+     x="47.448463"
+     y="12.977482"
+     id="text412"><tspan
+       sodipodi:role="line"
+       id="tspan410"
+       x="47.448463"
+       y="12.977482"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:Chalkboard;-inkscape-font-specification:'Chalkboard, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Join us</tspan></text>
+  <text
+     xml:space="preserve"
+     style="fill:#ffffff"
+     x="46.864277"
+     y="12.704529"
+     id="text466"><tspan
+       sodipodi:role="line"
+       id="tspan464"
+       x="46.864277"
+       y="12.704529"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:Chalkboard;-inkscape-font-specification:'Chalkboard, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Join us</tspan></text>
+</svg>
