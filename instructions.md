@@ -6,7 +6,7 @@ First, you'll need a [GitHub account](https://github.com/join)!
 
 1. Access the fromTeal-registry GitHub page: https://github.com/fromTeal/fromTeal-registry
 
-2. Now click on the edit icon.
+2. Now click on the edit icon (pencil)
 
 <br />
 
@@ -15,14 +15,14 @@ First, you'll need a [GitHub account](https://github.com/join)!
 
 <br />
 
-3. You can start editing the text of the file in the in-browser editor. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/).
+3. You can add your project to the registry by editing the text of the file in the in-browser editor. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/).
 <br />
 
 ![Step 4 - Edit the file](readme-editing.png)
 
 <br />
 
-5. Say why you're proposing the changes, and then click on "Propose file change".
+5. Add a description ("adding team x"), and then click on "Propose file change".
 
 <br />
 
