@@ -6,13 +6,31 @@ First, you'll need a [GitHub account](https://github.com/join)!
 
 1. Access the fromTeal-registry GitHub page: https://github.com/fromTeal/fromTeal-registry
 
-2. Now click on the edit icon. ![Step 3 - Click on Edit](readme-pencil-icon.png)
+2. Now click on the edit icon.
 
-3. You can start editing the text of the file in the in-browser editor. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). ![Step 4 - Edit the file](readme-editing.png)
+<br />
 
-4. Say why you're proposing the changes, and then click on "Propose file change". ![Step 5 - Propose Changes](https://cloud.githubusercontent.com/assets/170270/9402937/7dd0652a-480c-11e5-9138-bd14244593d5.png)
 
-5. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
+![Step 3 - Click on Edit](readme-pencil-icon.png)
+
+<br />
+
+3. You can start editing the text of the file in the in-browser editor. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/).
+<br />
+
+![Step 4 - Edit the file](readme-editing.png)
+
+<br />
+
+5. Say why you're proposing the changes, and then click on "Propose file change".
+
+<br />
+
+![Step 5 - Propose Changes](registry-confirm-add.png)
+
+6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
+
+<br />
 
 ## Updating your Pull Request
 
