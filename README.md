@@ -21,6 +21,13 @@ To add your team, open a PR & edit this page (see [instructions here](instructio
 - [Data & Information](#data-and-information)
 
 - [Sustainability](#sustainability)
+
+- [Programming](#programming)
+
+- [Languages](#languages)
+
+- [Dating](#dating)
+
   
 <!-- tocstop -->
 ## Self-actualization
@@ -35,4 +42,19 @@ To add your team, open a PR & edit this page (see [instructions here](instructio
 ## Sustainability
 
 * [Wall-with-Soul](https://wall-with-soul.webflow.io) — Living walls for capturing carbon
+
+
+* ## Programming
+
+* [JumpTheGun](https://github.com/taleinat/jumpthegun) — Making Python CLI tools much faster
+* [PyDigger](https://pydigger.com) - analyzing Python packages to find low hanging fruits for improving them
+
+* ## Languages
+  
+* [Kantoniko](https://kantoniko.com) - Online dictionary & resources for preserving the Ladino language
+
+* ## Dating
+
+* [SpeedyMatch](https://en.speedymatch.com) - Free vegan dating service
+
 
