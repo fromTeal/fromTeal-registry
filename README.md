@@ -46,7 +46,7 @@ To add your team, open a PR & edit this page (see [instructions here](instructio
 
 * [JumpTheGun](https://github.com/taleinat/jumpthegun) — Making Python CLI tools lightning fast
 * [PyDigger](https://pydigger.com) - Finding the low hanging fruit to improve Python packages
-* [OpenSourceDevelopmentCommunity](https://osdc.zulipchat.com/) - Community for open source contributors
+* [Open Source Development Community](https://osdc.zulipchat.com/) - Community for open source contributors
 
 ## Language and Culture
 
