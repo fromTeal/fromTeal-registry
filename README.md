@@ -47,6 +47,7 @@ To add your team, open a PR & edit this page (see [instructions here](instructio
 * [JumpTheGun](https://github.com/taleinat/jumpthegun) — Making Python CLI tools lightning fast
 * [PyDigger](https://pydigger.com) — Finding the low hanging fruit to improve Python packages
 * [Open Source Development Community](https://osdc.zulipchat.com/) — Community for open source contributors
+* [Scaffolded Exercises](https://github.com/gobid/scaffolded-exercises) — Help devs learn Javascript data value transformations from real examples
 
 ## Language and Culture
 
